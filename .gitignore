@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/ASCII Mirror/task/build/
+/ASCII Mirror/task/out/
+/ASCII Mirror/task/out/production/classes/
+/Topics/ArrayList/Concat positive numbers/out/
+/Topics/ArrayList/Concat positive numbers/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/Method references/Ascending and descending sorting/out/
+/Topics/Method references/Ascending and descending sorting/out/production/classes/
+/Topics/Stream filtering/Bad words detecting/out/
+/Topics/Stream filtering/Bad words detecting/out/production/classes/
